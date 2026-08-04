@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "01",
+        "titulo" : "Homem-Aranha: Um Novo Dia",
+        "genero" : "Ação",
+        "anoLancamento" : 2026,
+        "cenaposcredito" : true,
+        "assistido" : true,
+        "favorito" : true,
+        "classificacaoIndicativa" : 12
+    },
+    {
+        "id" : "02",
+        "titulo" : "De Volta para o futuro",
+        "genero" : "Ficção Cientifíca",
+        "anoLancamento" : 1985,
+        "cenaposcredito" : false,
+        "assistido" : true,
+        "favorito" : true,
+        "classificacaoIndicativa" : 12
+    },
+    {
+        "id" : "03",
+        "titulo" : "Star Wars: A vingança dos Sith",
+        "genero" : "Ação",
+        "anoLancamento" : 2005,
+        "cenaposcredito" : false,
+        "assistido" : true,
+        "favorito" : true,
+        "classificacaoIndicativa" : 12
+    },
+    {
+        "id" : "04",
+        "titulo" : "Toy Story 5",
+        "genero" : "Animação",
+        "anoLancamento" : 2026,
+        "cenaposcredito" : true,
+        "assistido" : false,
+        "favorito" : false,
+        "classificacaoIndicativa" : 6
+    },
+    {
+        "id" : "05",
+        "titulo" : "Gente Grande",
+        "genero" : "Comédia",
+        "anoLancamento" : 2010,
+        "cenaposcredito" : false,
+        "assistido" : true,
+        "favorito" : true,
+        "classificacaoIndicativa" : 12
+    }
+]

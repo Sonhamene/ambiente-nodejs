@@ -1,0 +1,89 @@
+[
+    {
+        "id" : "01",
+        "nome" : "Bad End Theater",
+        "genero" : "RPG",
+        "desenvolvedora" : "NomnomNami",
+        "anoLancamento" : 2021,
+        "plataforma" : [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series x",
+            "Xbox Series S",
+            "Nintendo Switch",
+            "Nintendo Switch 2",
+            "Android"
+        ],
+        "multiplayer" : false,
+        "finalizado" : true
+    },
+    {
+        "id" : "02",
+        "nome" : "Transformers: War for Cybertron",
+        "genero" : "Shooter",
+        "desenvolvedora" : "Activision",
+        "anoLancamento" : 2010,
+        "plataforma" : [
+            "Xbox 360",
+            "PS3",
+            "PC"
+        ],
+        "multiplayer" : true,
+        "finalizado" : false
+    },
+    {
+        "id" : "03",
+        "nome" : "MoonLeap",
+        "genero" : "plataforma",
+        "desenvolvedora" : "guselect",
+        "anoLancamento" : 2023,
+        "plataforma" : [
+            "PC",
+            "Nintendo Switch",
+            "Nintendo Switch 2",
+            "Android",
+            "iOS"
+        ] ,
+        "multiplayer" : false,
+        "finalizado" : false
+    },
+    {
+        "id" : "04",
+        "nome" : "Ultimate Spider-Man",
+        "genero" : "Ação",
+        "desenvolvedora" : "Activision",
+        "anoLancamento" : 2005,
+        "plataforma" : [
+            "PC",
+            "GameCube",
+            "PS2",
+            "Xbox Original"
+        ],
+        "multiplayer" : false,
+        "finalizado" : false
+    },
+    {
+        "id" : "05",
+        "nome" : "Minecraft",
+        "genero" : "Sandbox",
+        "desenvolvedora" : "Notch",
+        "anoLancamento" : 2011,
+        "plataforma" : [
+            "PC",
+            "PS4",
+            "PS5",
+            "Xbox One",
+            "Xbox Series x",
+            "Xbox Series S",
+            "Nintendo Switch",
+            "Nintendo Switch 2",
+            "Android",
+            "PS3",
+            "Xbox 360"
+        ],
+        "multiplayer" : true,
+        "finalizado" : false
+    }
+]

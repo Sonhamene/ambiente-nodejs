@@ -1,0 +1,52 @@
+[
+    {
+        "id" : "01" ,
+        "equipe" : "Mclaren",
+        "nomePiloto" : "Lando Norris",
+        "nacionalidade" : "Britânico",
+        "numerocarro" : 1,
+        "anoestreia" : 2019,
+        "campeão" : true,
+        "wonLastRace" : true
+    },
+    {
+        "id" : "02" ,
+        "equipe" : "Mercedes",
+        "nomePiloto" : "Kimi Antonelli",
+        "nacionalidade" : "Italiano",
+        "numerocarro" : 12,
+        "anoestreia" : 2025,
+        "campeão" : false,
+        "wonLastRace" : false
+    },
+    {
+        "id" : "03" ,
+        "equipe" : "Audi",
+        "nomePiloto" : "Gabriel Bortoleto",
+        "nacionalidade" : "Brasileiro",
+        "numerocarro" : 5,
+        "anoestreia" : 2025,
+        "campeão" : false,
+        "wonLastRace" : false
+    },
+    {
+        "id" : "04" ,
+        "equipe" : "Ferrari",
+        "nomePiloto" : "Lewis Hamilton",
+        "nacionalidade" : "Britânico",
+        "numerocarro" : 44,
+        "anoestreia" : 2007,
+        "campeão" : true,
+        "wonLastRace" : false
+    },
+    {
+        "id" : "05" ,
+        "equipe" : "Williams",
+        "nomePiloto" : "Carlos Sainz",
+        "nacionalidade" : "Espanhol",
+        "numerocarro" : 55,
+        "anoestreia" : 2015,
+        "campeão" : false,
+        "wonLastRace" : false
+    }
+]
